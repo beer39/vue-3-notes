@@ -1,1 +1,1 @@
-git add - A
+console.log(123)
